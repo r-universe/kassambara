@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datarium"]
+	path = datarium
+	url = https://github.com/kassambara/datarium
+	shallow = true
+	registered = true
+[submodule "factoextra"]
+	path = factoextra
+	url = https://github.com/kassambara/factoextra
+	shallow = true
+	registered = true
+[submodule "fastqcr"]
+	path = fastqcr
+	url = https://github.com/kassambara/fastqcr
+	shallow = true
+	registered = true
+[submodule "ggcorrplot"]
+	path = ggcorrplot
+	url = https://github.com/kassambara/ggcorrplot
+	shallow = true
+	registered = true
+[submodule "ggpubr"]
+	path = ggpubr
+	url = https://github.com/kassambara/ggpubr
+	shallow = true
+	registered = true
+[submodule "rstatix"]
+	path = rstatix
+	url = https://github.com/kassambara/rstatix
+	shallow = true
+	registered = true
+[submodule "survminer"]
+	path = survminer
+	url = https://github.com/kassambara/survminer
+	shallow = true
+	registered = true

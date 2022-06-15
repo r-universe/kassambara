@@ -1,0 +1,30 @@
+[
+  {
+    "package": "datarium",
+    "oncran": true
+  },
+  {
+    "package": "factoextra",
+    "oncran": true
+  },
+  {
+    "package": "fastqcr",
+    "oncran": true
+  },
+  {
+    "package": "ggcorrplot",
+    "oncran": true
+  },
+  {
+    "package": "ggpubr",
+    "oncran": true
+  },
+  {
+    "package": "rstatix",
+    "oncran": true
+  },
+  {
+    "package": "survminer",
+    "oncran": true
+  }
+]
