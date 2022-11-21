@@ -1,0 +1,14 @@
+[
+  {
+    "package": "stringr",
+    "url": "https://github.com/tidyverse/stringr",
+    "via": ["ggpubr", "tidyr"],
+    "from": "ggpubr"
+  },
+  {
+    "package": "tidyr",
+    "url": "https://github.com/tidyverse/tidyr",
+    "via": ["ggpubr"],
+    "from": "ggpubr"
+  }
+]

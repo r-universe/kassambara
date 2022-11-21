@@ -38,3 +38,13 @@
 	url = https://github.com/kassambara/survminer
 	shallow = true
 	registered = true
+[submodule "stringr"]
+	path = stringr
+	url = https://github.com/tidyverse/stringr
+	shallow = true
+	registered = false
+[submodule "tidyr"]
+	path = tidyr
+	url = https://github.com/tidyverse/tidyr
+	shallow = true
+	registered = false
