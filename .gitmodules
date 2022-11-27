@@ -38,6 +38,11 @@
 	url = https://github.com/kassambara/survminer
 	shallow = true
 	registered = true
+[submodule "ggrepel"]
+	path = ggrepel
+	url = https://github.com/slowkow/ggrepel
+	shallow = true
+	registered = false
 [submodule "stringr"]
 	path = stringr
 	url = https://github.com/tidyverse/stringr

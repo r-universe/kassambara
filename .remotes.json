@@ -1,5 +1,11 @@
 [
   {
+    "package": "ggrepel",
+    "url": "https://github.com/slowkow/ggrepel",
+    "via": ["ggpubr"],
+    "from": "ggpubr"
+  },
+  {
     "package": "stringr",
     "url": "https://github.com/tidyverse/stringr",
     "via": ["ggpubr", "tidyr"],
