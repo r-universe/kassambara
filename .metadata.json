@@ -1,13 +1,5 @@
 [
   {
-    "package": "datarium",
-    "oncran": true
-  },
-  {
-    "package": "factoextra",
-    "oncran": true
-  },
-  {
     "package": "fastqcr",
     "oncran": true
   },
@@ -16,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "ggpubr",
+    "package": "survminer",
+    "oncran": true
+  },
+  {
+    "package": "factoextra",
     "oncran": true
   },
   {
@@ -24,7 +20,11 @@
     "oncran": true
   },
   {
-    "package": "survminer",
+    "package": "datarium",
+    "oncran": true
+  },
+  {
+    "package": "ggpubr",
     "oncran": true
   }
 ]
