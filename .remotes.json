@@ -1,0 +1,9 @@
+[
+  {
+    "package": "rstatix",
+    "url": "https://github.com/kassambara/rstatix",
+    "via": ["ggpubr"],
+    "branch": "release/1.1.0",
+    "from": "ggpubr"
+  }
+]
